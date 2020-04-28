@@ -1,0 +1,9 @@
+[[LibCURL]]
+arch = "x86_64"
+git-tree-sha1 = "85f63d66f7e2dabc986deb46b1079d678967e755"
+libc = "glibc"
+os = "linux"
+
+    [[LibCURL.download]]
+    sha256 = "7333f2b653b967a2655a9b21236b4cceb0cee457d6370e47b7a6dcd9cc568748"
+    url = "https://github.com/geokollias/LibCURL_jll.jl/releases/download/LibCURL-v7.68.0+1/LibCURL.v7.68.0.x86_64-linux-gnu.tar.gz"
